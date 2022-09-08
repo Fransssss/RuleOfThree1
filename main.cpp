@@ -1,4 +1,7 @@
 // Fransiskus Agapa
+// 9/8/22
+// Practices make improvement - Have Fun !!!
+// :)
 
 // ================
 // apply copy constructor, copy assignment, and destructor in a class
