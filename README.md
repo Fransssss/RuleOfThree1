@@ -3,10 +3,10 @@ Simple Class Rule Three
 
 
 Objectives:
-- declare and define default constructor
-- declare and define copy constructor
-- declare and define copy assignment
-- declare and define destructor
+- declare and define class default constructor
+- declare and define class pointer copy constructor
+- declare and define class pointer copy assignment
+- declare and define class pointer destructor
 
 
 Example output:
